@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Movies</title>
+  </head>
+  <style>
+    .movie {
+      border: 2px solid blue;
+      display: inline-block;
+      text-align: center;
+      margin: 4rem;
+      padding: 2rem;
+    }
+    .title {
+      color: red;
+    }
+  </style>
+  <body>
+    <div class="movie">
+      <h1 class="title">{%MOVIE_TITLE%}</h1>
+      <h2 class="genre">{%MOVIE_GENRE%}</h2>
+      <h3 class="rating">{%MOVIE_RATING%}</h3>
+      <h4 class="character">{%MAIN_CHARACTER%}</h4>
+    </div>
+  </body>
+</html>

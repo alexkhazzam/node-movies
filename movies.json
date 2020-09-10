@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Hunger-Games",
+    "genre": "Dystopia",
+    "rating": "5/5",
+    "character": "Katniss-Everdeen"
+  },
+  {
+    "title": "Divergent",
+    "genre": "Dystopia",
+    "rating": "5/5",
+    "character": "Tris-Prior"
+  },
+  {
+    "title": "Maze-Runner",
+    "genre": "Dystopia",
+    "rating": "5/5",
+    "character": "Thomas"
+  },
+  {
+    "title": "Harry-Potter",
+    "genre": "fantasy",
+    "rating": "5/5",
+    "character": "Harry-Potter"
+  },
+  {
+    "title": "Endgame",
+    "genre": "Action",
+    "rating": "5/5",
+    "character": "Avengers"
+  }
+]
